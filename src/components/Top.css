@@ -1,0 +1,126 @@
+.navbar{
+  height: 96px;
+  width: 1441px;
+  background-color: #2B2C3B;
+  /* position: absolute; */
+      width: 100%;
+  /* border: solid; */
+}
+.menu{
+  height: 24px;
+  width: 24px;
+  border: solid white;
+  position: absolute;
+  margin-top: 33px;
+  margin-left: 47px;
+  display: flex;
+}
+
+.logo{
+  height: 23px;
+  width: 165px;
+  position: absolute;
+  margin-top: 37px;
+  margin-left: 129px;
+  
+}
+
+.moviehunt {
+  height: 18px;
+  width: 99px;
+  color: #FFF;
+  font-family: "Andale Mono";
+  font-size: 16px;
+  line-height: 18px;
+  float: right;
+  position: relative;
+  bottom: 20px;
+}
+.path {
+  box-sizing: border-box;
+  height: 23px;
+  width: 44px;
+  border: 3px solid #FFF;
+}
+
+.toprated{
+  height: 23px;
+  width: 152px;
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+}
+
+.tab{
+  height: 58.5px;
+  width: 152px;
+  margin-left:462px;
+  margin-top:34px; 
+  position: absolute;
+}
+.rectangle1 {
+  height: 5.85px;
+  width: 150px;
+  background-color: #2E74C4;
+  bottom: 0;
+  position: absolute;
+
+}
+
+.option{
+  height: 23px;
+  width: 152px;
+  color: #B5B5B5;
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  margin-left: 656px;
+  margin-top: 37px;
+  position: absolute;
+}
+.option1{
+  height: 23px;
+  width: 152px;
+  color: #B5B5B5;
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  margin-left: 827px;
+  margin-top: 37px;
+  position: absolute;
+}
+
+.rectangle3{
+  height: 50px;
+  width: 134px;
+  border-radius: 2px;
+  background-color: #2E74C4;
+  margin-left: 1071px;
+  position: absolute;
+  margin-top: 19px;
+}
+
+.addmovie{
+  height: 22px;
+  width: 66px;
+  color: #FFF;
+  font-family: Hind;
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 14px;
+  right: 32px;
+  position: absolute;
+}
+
+.profile{
+  height: 59px;
+  width: 59px;
+  border: solid wheat;
+  position: absolute;
+  right: 50px;
+  top: 18px;
+}

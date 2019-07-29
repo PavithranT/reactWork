@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Iron Man",
+        "rating": "84%",
+        "release":"2018",
+        "detail":"Robert Downey Jr. as Tony Stark / Iron Man: An industrialist, genius inventor, and consummate playboy, he is CEO of Stark Industries and a chief weapons manufacturer for the U.S. military.",
+        "img": "../components/images/img_iron_man.jpg"
+    },
+    {
+        "name": "Hulk",
+        "rating": "87%",
+        "release":"2008",
+        "detail":"The Incredible Hulk is a 2008 American superhero film based on the Marvel Comics character the Hulk, produced by Marvel Studios and distributed by Universal Pictures.",
+        "img":"../components/images/img_the_incredible_hulk.jpg"
+    },
+    {
+        "name": "Captain America",
+        "rating": "84%",
+        "release":"2011",
+        "detail":"Captain America: The First Avenger is a 2011 American superhero film based on the Marvel Comics character Captain America.",
+        "img":"../components/images/img_captain_america_first_avenger.jpg"
+    },
+    {
+        "name": "The Avengers",
+        "rating": "89%",
+        "release":"2012",
+        "detail":"Marvel's The Avengers (classified under the name Marvel Avengers Assemble in the United Kingdom and Ireland), or simply The Avengers, is a 2012 American superhero film based on the Marvel Comics superhero team of the same name, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures.",
+        "img":"../components/images/img_avengers (1).jpg"
+    },
+    {
+        "name": "Iron Man 3 ",
+        "rating": "98%",
+        "release":"2013",
+        "detail":"Iron Man 3 is a 2013 American superhero film based on the Marvel Comics character Iron Man, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to 2008's Iron Man and 2010's Iron Man 2,",
+        "img":"../components/images/img_iron_man_3_theatrical_poster.jpg"
+    },
+    {
+        "name": "The Winter Soldier ",
+        "rating": "90%",
+        "release":"2014",
+        "detail":"In Captain America: The Winter Soldier, Captain America, Black Widow, and Falcon join forces to uncover a conspiracy within S.H.I.E.L.D. while facing a mysterious assassin known as the Winter Soldier.",
+        "img":"../components/images/img_captain_america_the_winter_soldier.jpg"
+    },
+    {
+        "name": "Age of Ultron",
+        "rating": "95%",
+        "release":"2015",
+        "detail":"Avengers: Age of Ultron is a 2015 American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to 2012's",
+        "img":"../components/images/img_avenger_age_of_ultron.jpg"
+    },
+    {
+        "name": "Avengers: Endgame",
+        "rating": "99%",
+        "release":"2019",
+        "detail":"Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed",
+        "img":"../components/images/img_avenger_endgame.jpeg"
+    },
+    {
+        "name": "Far From Home ",
+        "rating": "80%",
+        "release":"2019",
+        "detail":"Spider Man Far From Home, starring Tom Holland and Zendaya, hit the screens this week. The film is a light and breezy watch. Consider it as a break after the emotional intensity of Avengers Endgame",
+        "img":"../components/images/img_spiderman_far_from_home.jpeg"
+    }
+]
