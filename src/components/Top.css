@@ -9,7 +9,6 @@
 .menu{
   height: 24px;
   width: 24px;
-  border: solid white;
   position: absolute;
   margin-top: 33px;
   margin-left: 47px;
@@ -35,12 +34,13 @@
   float: right;
   position: relative;
   bottom: 20px;
+  right: 18px;
 }
 .path {
   box-sizing: border-box;
   height: 23px;
   width: 44px;
-  border: 3px solid #FFF;
+  /* border: 3px solid #FFF; */
 }
 
 .toprated{
@@ -111,16 +111,45 @@
   font-family: Hind;
   font-size: 14px;
   line-height: 22px;
-  margin-top: 14px;
-  right: 32px;
-  position: absolute;
+  /* margin-top: 14px;
+  right: 32px; */
+  /* position: absolute; */
 }
 
 .profile{
   height: 59px;
   width: 59px;
-  border: solid wheat;
+  /* border: solid wheat; */
   position: absolute;
   right: 50px;
   top: 18px;
+}
+
+.plus {
+  height: 20px;
+  width: 20px;
+  padding-right: 10px;
+}
+
+.rectangle3div{
+  display: flex;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.top-rated-movies {
+  height: 38px;
+  width: 264px;
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 32px;
+  line-height: 38px;
+  margin-top: 60px;
+  margin-left: 118px;
+}
+
+.ic-search {
+  height: 36px;
+  width: 36px;
+  margin-top: 60px;
+  margin-left: 867px;
 }

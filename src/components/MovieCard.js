@@ -1,16 +1,17 @@
 import React from 'react'
 import './MovieCard.css'
 
-
+var image=require.context("../images",true)
 
 function MovieCard(props) {
+    // image()
+    let cardImage=image(props.movie.img)
     return (
         <div style={{ maxWidth: "400px" }}>
             <div className="moviecard">
                 <div className="card">
                     <div className="imgloc">
-
-                        <img width="100%" height="100%" src={props.movie.img} alt="Not FOund" />
+                        <img width="100%" height="100%" src={cardImage} alt="Not FOund" />
                     </div>
                     <div className="textcontent">
                         <div style={{display:"flex"}} >

@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <Top></Top>
       <div />
-      <ul style={{ display: "flex", flexWrap: "wrap", marginLeft: "75px" }}>
+      <ul style={{ display: "flex", flexWrap: "wrap", marginLeft: "75px", marginTop: "60px" }}>
         {data.map(x => <div style={{ paddingRight: "25px" }}><MovieCard movie={x} /></div>)}
       </ul>
       <div>
